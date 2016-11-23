@@ -41,7 +41,13 @@ Another source of documentation is the standard library itself, located in
 (including `Int`), and the standard library gives some examples of what can be
 expressed today.
 
-
+## Insall in debian 8 & ubuntu 16.04 & linuxmint 18
+     apt search swift   
+     sudo apt install swift 
+## Open Terminal
+     swift  
+     Welcome to Swift version 3.0 (swift-3.0-PREVIEW-4). Type :help for assistance.  
+     1> 
 ## Getting Started
 
 These instructions give the most direct path to a working Swift
